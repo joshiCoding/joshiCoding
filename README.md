@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...a mini project
+- 🔭 I’m currently working on ...a website design software
 - 🌱 I’m currently learning ...Machine Learning
 
 - 🤔 I’m looking for help with ... Quantum Simulators
